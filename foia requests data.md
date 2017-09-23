@@ -24,7 +24,11 @@ CKAN, an open data platform, powers most open data platforms on the web, includi
 
 The metadata for these are "harvested" from external websites, as explained here: https://www.data.gov/developers/harvesting. As part of "Project Open Data", government offices follow an open metadata scheme, described here: https://project-open-data.cio.gov/v1.1/schema/
 
-The datasets hosted by MuckRock could be better organized to adhere to a well-defined metadata schema similar to the one specified by Project Open Data. At a minimum, the following filters can be added:
+The datasets hosted by MuckRock could be better organized to adhere to a well-defined metadata schema similar to the one specified by Project Open Data. 
+
+
+## Presentation
+The following filters can be added to increase accessibility, although this presentation step is dependent upon appropriate storage of the extra metadata required:
 1. Topic
 2. Dataset type (spatial / non-spatial)
 3. Data format (CSV, PDF, JPG, etc.)
