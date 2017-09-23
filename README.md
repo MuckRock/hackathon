@@ -1,6 +1,12 @@
 # hackathon
 Data and discussion for the Code for Boston Civic Day of Hacking
 
+# Stay in touch!
+
+We have an open Slack with a dedicated Developer channel! You can join by putting in information here:
+
+* https://www.muckrock.com/slack/
+
 # Examples and inspiration
 
 * [A map comparing exemptions and restrictions in different states](https://projects.jsonline.com/apps/state-secrets/)
