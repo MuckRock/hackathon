@@ -7,6 +7,8 @@ We have an open Slack with a dedicated Developer channel! You can join by puttin
 
 * https://www.muckrock.com/slack/
 
+We're also always happy to chat! Michael's email is michael@muckrock.com, and Mitch (best for technical questions) is mitch@muckrock.com. Our office is right in Harvard Square and we love visitors! 
+
 # Examples and inspiration
 
 * [A map comparing exemptions and restrictions in different states](https://projects.jsonline.com/apps/state-secrets/)
